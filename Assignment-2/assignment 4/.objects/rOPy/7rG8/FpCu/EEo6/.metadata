@@ -1,0 +1,14 @@
+﻿{
+  "Name": "New Delhi New Delhi",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "EEo6LoFsjUq_RCPYvl1ZQQ",
+  "Reference": "kiPGgUaOAkaUuNPTGcuBkg/EEo6LoFsjUq_RCPYvl1ZQQ",
+  "ParentRef": "kiPGgUaOAkaUuNPTGcuBkg/FpCulKpsKE2l2MK0OhpluA",
+  "Created": "2024-11-01T15:43:55.5672569Z",
+  "Updated": "2024-11-01T15:43:55.5672569Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

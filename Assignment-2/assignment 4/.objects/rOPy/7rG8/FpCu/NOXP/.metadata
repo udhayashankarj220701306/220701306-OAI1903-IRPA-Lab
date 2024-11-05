@@ -1,0 +1,14 @@
+﻿{
+  "Name": "21 °C",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "NOXPBu2In0uHva2fvzNGaQ",
+  "Reference": "kiPGgUaOAkaUuNPTGcuBkg/NOXPBu2In0uHva2fvzNGaQ",
+  "ParentRef": "kiPGgUaOAkaUuNPTGcuBkg/FpCulKpsKE2l2MK0OhpluA",
+  "Created": "2024-11-01T17:32:19.3929666Z",
+  "Updated": "2024-11-01T17:32:19.3929666Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

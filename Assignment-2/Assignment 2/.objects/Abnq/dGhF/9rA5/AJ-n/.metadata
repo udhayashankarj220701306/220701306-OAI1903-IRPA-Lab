@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Tanzania, the United",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "AJ-noIAX90GYrrrImrdZIg",
+  "Reference": "3NR6ITA39UetnyAzo3ePoA/AJ-noIAX90GYrrrImrdZIg",
+  "ParentRef": "3NR6ITA39UetnyAzo3ePoA/9rA5tfaax0Cyr_boeXQ41w",
+  "Created": "2024-10-28T03:25:29.8544558Z",
+  "Updated": "2024-10-28T03:25:29.8544558Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

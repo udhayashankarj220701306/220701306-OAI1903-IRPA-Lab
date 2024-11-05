@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0hjnrBeKYU2qXJw5jAvIug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="remove.bg" DesignTimeRectangle="1230, 561, 381, 98" DesignTimeScaleFactor="1.7624999284744263" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='page-content' tag='BUTTON' type='button' class='rounded-full font-semi-bold transition ease-in-out text-center font-body no-underline hover:no-underline !px-7 !py-3 inline-flex items-center justify-center text-2xl font-bold !py-2.5 text-white !bg-primary hover:!bg-primary-hover active:!bg-primary-active active:scale-[0.97] focus:outline-none focus-visible:outline-none focus:ring-none focus-visible:ring focus-visible:ring-offset-2 focus-visible:ring-primary-hover' aaname='Upload Image' check:innerText='Upload Image' /&gt;" Guid="794e88a9-9566-4240-9dd5-3c7b8164cbc7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Remove Background from Image for Free – remove.bg' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1040, 307, 761, 610" FuzzySelectorArgument="&lt;webctrl type='' class='w-full flex flex-col sm:justify-center sm:items-center sm:gap-8 sm:pt-36 sm:pb-16 rounded-4xl bg-white shadow-2xl' parentid='page-content' tag='DIV' aaname='' check:innerText='Upload Image&amp;#xA;&amp;#xA;or drop a file,&amp;#xA;&amp;#xA;paste image or URL ​' /&gt;" Guid="41a3581d-1c5e-482b-9198-0dbf5aa4f7e3" SearchSteps="FuzzySelector" />
+          <Target DesignTimeRectangle="109, 603, 903, 240" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='font-display font-bold text-typo m-0 text-4xl md:text-5xl lg:text-6xl text-center md:!text-left' aaname='Remove Image Background' check:innerText='Remove Image Background' /&gt;" Guid="7008107c-f1e1-4ae8-ba44-b8bf1b0f247d" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f0515a428ae48fae06425ff580f7306c.png" xmlns="">0Wr_bAgsgwUm51krPNczSJQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="I_rsvFMw0kyz11ohfEh6HA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" DesignTimeRectangle="14, 63, 49, 49" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='capital of india - Google Search - Google Chrome - UDHAYA SHANKA*' role='pane' /&gt;&lt;ctrl name='Back' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='capital of india - Google Search - Google Chrome - UDHAYA SHANKA*' role='pane' /&gt;&lt;ctrl name='Back' role='push button' automationid='' check:text='Back' /&gt;" Guid="9fbdbea1-c297-426a-8877-da15caddd333" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='capital of india - Google Search - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9f7cd4003aac022c6beb779144cca45c.png" xmlns="">0oVF14EDGQUutmtylk6NbOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

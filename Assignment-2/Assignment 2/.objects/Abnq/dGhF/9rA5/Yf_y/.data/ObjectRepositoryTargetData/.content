@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tU2J9grjgEqo5qUP6Ujpgg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="whatismyipaddress.com/ip/49.249.229.42" DesignTimeRectangle="275, 784, 160, 41" DesignTimeScaleFactor="1.7624999284744263" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='fl-post-1165' tag='SPAN' type='' class='' /&gt;" Guid="5c7aa523-c154-4b4b-8793-7c1974dee7d7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='IP Address Lookup for 49.249.229.42 in Chennai, India' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="97, 784, 178, 43" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='State/Region:' parentid='fl-post-1165' tag='SPAN' type='' class='' check:innerText='State/Region:' /&gt;" Guid="725d111c-b026-42a2-9e1d-ed6c840fd511" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="20b15d915f61c82b5acfd90c947e738d.png" xmlns="">0IEdjKMoA3E2E5UXQ0PMv2A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="G-skuMmVlk-XIdRQmLytwg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="timeanddate.com/weather/india" DesignTimeRectangle="52, 771, 90, 22" DesignTimeScaleFactor="1.409999966621399" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='qlook' tag='A' type='' class='' /&gt;" Guid="04c0fb1f-dc24-4bf4-bf5c-a6b9aaa858ae" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Weather in India' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ba7fdd559834ba0244dd085878a70f61.png" xmlns="">0HpJ0YNe5tkOP8xbbT7GGOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

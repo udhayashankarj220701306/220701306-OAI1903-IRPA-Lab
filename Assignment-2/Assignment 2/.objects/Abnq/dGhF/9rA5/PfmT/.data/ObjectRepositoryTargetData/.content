@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AXg5kqdgXk2XXuM-nYWCeQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="whatismyipaddress.com/ip/197.215.242.255" DesignTimeRectangle="816, 174, 287, 96" DesignTimeScaleFactor="1.93874990940094" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl tag='IMG' type='' class='' aaname='What Is My IP Address? Logo' /&gt;" Guid="d02d35c4-f188-4f85-b26f-e60290f6696e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='IP Address Lookup for 197.215.242.255 in Dar es Salaam, Tanzania, the United Republic of' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fe4544c6858dbc52f4811df242c93c96.png" xmlns="">0-h30cb-600qPVuLsZv2wcg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "KabulAfghanistan",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "TP_ZmtlyRkaup9HbIVapAQ",
+  "Reference": "kiPGgUaOAkaUuNPTGcuBkg/TP_ZmtlyRkaup9HbIVapAQ",
+  "ParentRef": "kiPGgUaOAkaUuNPTGcuBkg/FpCulKpsKE2l2MK0OhpluA",
+  "Created": "2024-11-01T17:31:46.708755Z",
+  "Updated": "2024-11-01T17:31:46.708755Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

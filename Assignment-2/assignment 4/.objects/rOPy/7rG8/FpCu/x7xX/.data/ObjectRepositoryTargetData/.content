@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1_ZVt7fS4kOAVdVGqmh58w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" DesignTimeRectangle="249, 444, 729, 40" DesignTimeScaleFactor="1.2689999341964722" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='DIV' type='' class='IZ6rdc' /&gt;" Guid="3775830a-6995-4ad5-a7df-2cc4448fe1c6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='what is the capital of Indonesia - Google Search' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d44e35c19a3249963f0f941c0e3aafdf.png" xmlns="">0nBlHwWsZDUuEpKQw4f5h_w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

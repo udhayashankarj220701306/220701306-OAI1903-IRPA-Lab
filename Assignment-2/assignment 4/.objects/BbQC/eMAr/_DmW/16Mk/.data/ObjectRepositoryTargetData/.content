@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lmYnqgPpg0ikB8CZAZTQOw" Reference="kiPGgUaOAkaUuNPTGcuBkg/16MkcOU_v0Kvo2-Ln6so_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="timeanddate.com/weather" DesignTimeRectangle="1378, 485, 402, 61" DesignTimeScaleFactor="1.409999966621399" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='po1' tag='A' type='' class=''  /&gt;" Guid="261b968b-a61a-46a7-b706-b2744acbc31d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='World Temperatures — Weather Around The World' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7716cb8707e4f6b243b0705e6c6a6aa2.png" xmlns="">0_206czAly0-afuVWODk0Bw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

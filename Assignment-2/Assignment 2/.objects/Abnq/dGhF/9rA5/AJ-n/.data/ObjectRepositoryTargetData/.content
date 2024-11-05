@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mMzIqehtCE6Xio3U-sR8sA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="whatismyipaddress.com/ip/197.215.242.255" CVScreenId="8ddcbe6b-0d3a-41aa-b0dc-88b48f39ec6a" CvTextArea="272, 667, 290, 31" CvTextArgument="Tanzania, the United" CvType="Text" DesignTimeRectangle="271, 667, 291, 32" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="1fc51294-161d-46b8-870b-705a453df87b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='IP Address Lookup for 197.215.242.255 in Dar es Salaam, Tanzania, the United Republic of' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8ddcbe6b-0d3a-41aa-b0dc-88b48f39ec6a" CvTextArea="95, 669, 117, 33" CvTextArgument="Country:" CvType="Text" DesignTimeRectangle="97, 662, 178, 43" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Country:' parentid='fl-post-1165' tag='SPAN' type='' class='' check:innerText='Country:' /&gt;" Guid="b5305764-d53e-4158-910c-1487ea62abc0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8ccd571d715bf60a6ccac17244803578.png" xmlns="">0VI7vwR5lR0OKIHmdBvrv1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

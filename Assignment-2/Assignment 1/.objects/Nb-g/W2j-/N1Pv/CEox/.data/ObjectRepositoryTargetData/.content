@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="htM5bPI7fkiU0acpy-vrtg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="remove.bg/upload" DesignTimeRectangle="971, 747, 578, 71" DesignTimeScaleFactor="1.7624999284744263" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Download' parentid='side-panel' tag='BUTTON' type='button' class='rounded-full font-semi-bold transition ease-in-out text-center font-body no-underline hover:no-underline !px-5 inline-flex items-center justify-center text-base min-h-[2.5rem] !py-[0.25rem] text-white !bg-primary hover:!bg-primary-hover active:!bg-primary-active active:scale-[0.97] w-full focus:outline-none focus-visible:outline-none focus:ring-none focus-visible:ring focus-visible:ring-offset-2 focus-visible:ring-primary-hover' check:innerText='Download' /&gt;" Guid="9a45236a-90cf-4278-9b80-0a478dfface4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Remove Background from Image for Free – remove.bg' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1191, 761, 139, 42" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Download' parentid='side-panel' tag='DIV' type='' class='[&amp;amp;&amp;gt;svg]:shrink-0 flex gap-2 items-center' check:innerText='Download' /&gt;" Guid="01082266-6c8d-422c-83b6-ad28a5d6fc5e" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2b919163fcd6b42881e5f25a57f1d5fd.png" xmlns="">0soGv1uHYbUeVg9fDU5clFw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

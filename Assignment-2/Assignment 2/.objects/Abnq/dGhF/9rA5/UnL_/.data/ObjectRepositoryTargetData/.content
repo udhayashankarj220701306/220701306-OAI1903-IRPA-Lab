@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="je_Py3LCIUq4teYRp8ZRiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="whatismyipaddress.com" DesignTimeRectangle="1066, 220, 37, 37" DesignTimeScaleFactor="1.409999966621399" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl type='' tag='svg' class='' aaname='' /&gt;" Guid="c4025c57-21ef-4fdf-9606-9d9336a8a9af" ScopeSelectorArgument="&lt;html app='chrome.exe' title='What Is My IP Address - See Your Public Address - IPv4 &amp;amp; IPv6' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="8, 195, 1120, 87" ElementType="Container" FuzzySelectorArgument="&lt;webctrl tag='HEADER' type='' class='wipa-header' aaname='  &amp;#x9; &amp;#x9;  &amp;#x9;  &amp;#x9;  &amp;#x9;' check:innerText='MY IP&amp;#xA;IP LOOKUP&amp;#xA;HIDE MY IP&amp;#xA;VPNS&amp;#xA;TOOLS&amp;#xA;LEARN&amp;#xA;About&amp;#xA;Press&amp;#xA;Podcast&amp;#xA;Support' /&gt;" Guid="2a86438e-6f97-43c4-87cb-97f4543a8f92" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9f17ce79faa409499a079ac65067b33e.png" xmlns="">0iMasMOqqGEitZNfe2YvXSg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3nLDnk7k302HL5nmUKH1TA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="whatismyipaddress.com/ip/197.215.242.255" CVScreenId="f65564de-1869-4269-baaa-84a5bb79cecb" CvElementArea="475, 194, 616, 80" CvType="InputBox" DesignTimeRectangle="478, 195, 611, 79" DesignTimeScaleFactor="1.7624999284744263" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='search' class='search-field' placeholder='Enter Keywords or IP Address…' aaname='' /&gt;" Guid="67f5e2cf-1c10-4162-9f39-c3de9db590cb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='IP Address Lookup for 197.215.242.255 in Dar es Salaam, Tanzania, the United Republic of' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f65564de-1869-4269-baaa-84a5bb79cecb" CvElementArea="1089, 192, 235, 83" CvTextArea="1166, 217, 123, 33" CvTextArgument="Search" CvType="Button" DesignTimeRectangle="1089, 195, 235, 79" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='search-submit' aaname='Search' check:innerText='Search' /&gt;" Guid="1fc0f03d-df5c-4ff8-ae4d-8f87c281d53a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="90587ce28269c50c2c754fa622ed6d0e.png" xmlns="">04d818oBecUakpjhYHOyMxA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

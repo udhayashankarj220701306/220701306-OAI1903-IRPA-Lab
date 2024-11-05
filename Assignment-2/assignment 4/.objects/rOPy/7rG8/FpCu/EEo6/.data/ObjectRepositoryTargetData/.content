@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NRWcZV1w106PcgMI4Aq6Qw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" DesignTimeRectangle="717, 450, 111, 29" DesignTimeScaleFactor="1.2689999341964722" FuzzySelectorArgument="&lt;webctrl tag='MARK' type='' class='QVRyCf' /&gt;" Guid="6565af91-86c8-4f63-92c9-a20b932064f5" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='what is the capital of india britannica - Google Search' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="eb87e6bb38e134e41d153d5fcf9025c6.png" xmlns="">0snGHoQr6ZUyM8VcH4AZjYA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JzmzurrqwE-XK4uKEB32Yw" Reference="kiPGgUaOAkaUuNPTGcuBkg/aVKWFzulpEGlWJYXrTV0mg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="timeanddate.com/weather/uk/oldham" DesignTimeRectangle="1458, 527, 375, 61" DesignTimeScaleFactor="1.409999966621399" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='po1' tag='A' type='' class='' /&gt;" Guid="04c6343f-a5a1-4a6e-b6e7-278fdcf22dae" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Weather for Oldham, England, United Kingdom' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="da87f7044bb36cb321f33e3b5489307e.png" xmlns="">0vcCtFAH0FUmS6Ro24ujEKw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

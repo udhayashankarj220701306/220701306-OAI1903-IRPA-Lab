@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="x8ros2y160KLNNpCHjofjA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="timeanddate.com/weather/uk/oldham" DesignTimeRectangle="1460, 474, 376, 45" DesignTimeScaleFactor="1.409999966621399" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='search' class='picker-city__input' placeholder='Search for city or place…' aaname='' /&gt;" Guid="c688803c-cf59-4fa2-b9dd-62fd6196cffc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Weather for Oldham, England, United Kingdom' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="78f85016481741b47f872dda1baf8eaf.png" xmlns="">0eoabRt0IJkaYAxRr2miZBA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

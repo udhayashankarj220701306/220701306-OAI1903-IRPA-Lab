@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Upload Image",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "QAg5DC_Z2UyH0aRemOKhPg",
+  "Reference": "767GOMmrOUmkDscXUcStDQ/QAg5DC_Z2UyH0aRemOKhPg",
+  "ParentRef": "767GOMmrOUmkDscXUcStDQ/N1PvTrnLn0SZRnFHdzBqHA",
+  "Created": "2024-10-22T03:22:29.389682Z",
+  "Updated": "2024-10-22T03:22:29.389682Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
