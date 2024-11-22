@@ -1,0 +1,48 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_loss&Sequence_1",
+        "myRandom&Sequence_1",
+        "SampleSetCount&Sequence_1",
+        "RandomIndex&Sequence_1",
+        "out&Sequence_1",
+        "dt_mail&Sequence_1",
+        "dt_yoga&Sequence_1",
+        "mailid&Sequence_1",
+        "mailBody&Sequence_1",
+        "routine&Sequence_1",
+        "dt_strenth&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RandomRowsRetrieval_V2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "out&Sequence_1",
+        "RandomIndex&Sequence_1",
+        "dtData&Sequence_1",
+        "dtDataExtract&Sequence_1",
+        "DummyCount&Sequence_1",
+        "SampleSetCount&Sequence_1",
+        "myRandom&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
